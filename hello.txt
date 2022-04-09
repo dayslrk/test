@@ -10,4 +10,5 @@ int main()
   char e;
   m=Pi*a*a;
   ptintf("hello");
+  return 0;
  }
