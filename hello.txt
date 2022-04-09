@@ -1,2 +1,13 @@
 hello days
 你好呀
+#include<iostream>
+#define Pi 3.14
+int main()
+{
+  int a,b,c;
+  double m;
+  float d;
+  char e;
+  m=Pi*a*a;
+  ptintf("hello");
+ }
